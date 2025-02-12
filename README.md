@@ -21,3 +21,8 @@ In our study we developed three Cases:
     This is be carried out with:
         BCM activated
         BCM deactivated
+
+
+
+
+The dynamic driver can be accessed via request: Patricia.Glocke@kit.edu
