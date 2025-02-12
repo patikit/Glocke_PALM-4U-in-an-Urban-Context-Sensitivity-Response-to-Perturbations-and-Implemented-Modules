@@ -1,4 +1,4 @@
-# Glocke_PALM-4U-in-an-Urban-Context-Sensitivity-Response-to-Perturbations-and-Implemented-Modules
+# Glocke_PALM-4U-in-an-Urban-Context: Sensitivity-Response-to-Perturbations-and-Implemented-Modules
 
 To study the the short-term atmospheric response of the large eddy simulation urban climate model PALM-4U to disturbances of model parameters in Berlin, we provide the p3d files used in our study.
 Using as dynamic forcing WRF, we developed different scenarios for studying the sensitivity, which are: (i) the influence of a 5~K soil temperature change in the deepest soil layer (2.91 m) in conjunction with and without the implementation of the bulk cloud model (BCM) and (ii) the effect of entirely adjusted soil temperature profiles in order to emulate a temporally more advanced state of heat diffusion in the soil, again under clear-sky conditions and for an overcast day.
