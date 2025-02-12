@@ -24,5 +24,6 @@ In our study we developed three Cases:
 
 
 
-
+All p3d files are provided.
+The static driver is provided as well.
 The dynamic driver can be accessed via request: Patricia.Glocke@kit.edu
